@@ -37,7 +37,6 @@ and then add the whole result like this
 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20
 
 _*Substruction
-
 user input
 ------------------------------------------------------------
 this will led the algorithm to calcilate the operation like this
