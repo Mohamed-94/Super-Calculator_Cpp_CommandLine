@@ -40,7 +40,7 @@ _*Multiplication[*]
 
 user input
 
-***********************************************************
+[***********************************************************]
 
 this will led the algorithm to calcilate the operation like this
 
@@ -69,7 +69,7 @@ _*Substruction
 
 user input
 
-------------------------------------------------------------
+[------------------------------------------------------------]
 
 this will led the algorithm to calcilate the operation like this
 
