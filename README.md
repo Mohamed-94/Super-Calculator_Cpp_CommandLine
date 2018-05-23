@@ -37,6 +37,7 @@ and then it genrates the result and the times operation has been applied
 *applied = 45 times
 
 _*Multiplication[*]
+
 user input
 
 ***********************************************************
@@ -50,6 +51,7 @@ and then add the whole result like this
 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20 + 20
 
 -*Division
+
 user input
 
 //////////////////////////////////////////////////////////////
@@ -78,6 +80,7 @@ and then add the whole result like this
 5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5
 
 -*Modulo
+
 user input
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -91,6 +94,7 @@ and then add the whole result like this
 0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0
 
 -*Power
+
 user input
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,6 +108,7 @@ and then add the whole result like this
 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100
 
 _*Factorial
+
 user input
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -161,5 +166,4 @@ GUI version..
 this was a Console Mode Application which developed with C++ ..
 
 the GUI version is now avaleble in other repository..its developed with C# and contain all the standard features included in the console
-
 application sofar ...
