@@ -83,7 +83,7 @@ and then add the whole result like this
 
 user input
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 this will led the algorithm to calcilate the operation like this
 
@@ -134,6 +134,7 @@ for example a user want to calculate two numbers 10 and 7
 and then he entered the follewing input (in the operator field)
 
 user input
+
 +++++++++**************///////////////////%%%%%%%%%%%%%%%^^^^^^^^^^^^^^^^!!!!!!!!!!!--------++++++
 
 this will led the algorithm to calcilate the operation like this
