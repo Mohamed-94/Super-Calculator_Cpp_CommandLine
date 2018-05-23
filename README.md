@@ -5,7 +5,6 @@ this repository is a C++ command line application....that use a long String of o
 user (with tow numbers to calcilate)..and than calcilate the whole operation as long as there is an operator in the user field..
 
 each operation has its option and limits in the user field for example you can not enter an Addition operator while the operation is
-
 Multiplication ...instead use an Addition operation first - and vise versa..
 
 *to go to the real and main function of this app you should use *All Operations* option which is provided as well..there you can
@@ -38,7 +37,6 @@ and then it genrates the result and the times operation has been applied
 *applied = 45 times
 
 _*Multiplication[*]
-
 user input
 
 ***********************************************************
@@ -80,7 +78,6 @@ and then add the whole result like this
 5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5 +5 + 5
 
 -*Modulo
-
 user input
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -94,7 +91,6 @@ and then add the whole result like this
 0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0 +0 + 0
 
 -*Power
-
 user input
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -108,7 +104,6 @@ and then add the whole result like this
 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100 + 100
 
 _*Factorial
-
 user input
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -134,15 +129,12 @@ for example a user want to calculate two numbers 10 and 7
 and then he entered the follewing input (in the operator field)
 
 user input
-
 +++++++++**************///////////////////%%%%%%%%%%%%%%%^^^^^^^^^^^^^^^^!!!!!!!!!!!--------++++++
 
 this will led the algorithm to calcilate the operation like this
 
 10 + 7 +10 + 7 +10 + 7 +10 + 7 * 10 * 7 * 7 * 10 * 7 * 7 * 10 * 7 * 7 * 10 * 7 * 7 * 10 * 7 / 10 / 7/ 10 / 7/ 10 / 7/ 10 / 7/ 10 / 7/ 10
-
 / 7/ 10 / 7/ 10 / 7 % 10 % 7 % 10 % 7% 10 % 7% 10 % 7% 10 % 7% 10 % 7 ^ 10 ^ 7 ^ 10 ^ 7^ 10 ^ 7^ 10 ^ 7^ 10 ^ 7^ 10 ^ 7 ^ 10 ^ 7^ 10 ^ 7 
-
 ! 10 ! 10 !10 !10 !10 !10 !10 !10 - 10 - 7 - 10 - 7 - 10 - 7 - 10 - 7 - 10 - 7 - 10 - 7 - 10 - 7- 10 - 7 +10 + 7+10 + 7+10 + 7+10 + 7 
 
 (notice that factorial ! operator applied only on first number wich is 10) 
@@ -150,11 +142,8 @@ this will led the algorithm to calcilate the operation like this
 and then add the whole result like this
 
 17 + 17 +17 + 17 +17 + 17 +17 + 17 + 70 + 70 +70 + 70 +70 + 70 +70 + 70 +70 + 70 + 1.4 + 1.4 +1.4 + 1.4 +1.4 + 1.4 +1.4 + 1.4 +1.4 + 1.4
-
 +1.4 + 1.4 +1.4 + 1.4 + 3 + 3 +3 + 3 +3 + 3 +3 + 3 +3 + 3 +3 + 3 + 3 + 3 + 10000000 + 10000000 +10000000 + 10000000 +10000000 + 10000000
-
-+10000000 + 10000000 +10000000 + 10000000 +10000000 + 10000000 + 5040 + 504 +5040 + 504 +3628800 +3628800 +3628800 +3628800 +3628800
-
++10000000 + 10000000 +10000000 + 10000000 +10000000 + 10000000 + 5040 + 504 +5040 + 504 +3628800 +3628800 + 3628800 + 3628800 +3628800
 +3628800 +3628800 +3628800 +3628800 +3628800 + 3 +3 +3 + 3 + 3 +3 +3 +17 +17 +17 +17 +17 +17
 
 it calcilate all that depends on the string entered by the user..long or short.
