@@ -2,17 +2,17 @@
 
 this repository is a C++ command line application....that use a long String of operators ..provided by 
 
-user (with tow numbers to calcilate)..and than calculate the whole operation as long as there is an operator in the user field..
+user (with tow numbers to calculate)..and than calculate the whole operation as long as there is an operator in the user field..
 
 each operation has its option and limits in the user field for example you can not enter an Addition operator while the operation is
 Multiplication ...instead use an Addition operation first - and vise versa..
 
 *to go to the real and main function of this app you should use *All Operations* option which is provided as well..there you can
 
-get the result from all operations through combining all possible operators and than calcilate them together ...
+get the result from all operations through combining all possible operators and than calculate them together ...
 
 
-*perhaps the user want to calcilate 10 + 10
+*perhaps the user want to calculate 10 + 10
 
 he will use Addition Operation[+]
 
@@ -20,7 +20,7 @@ and then he enter a long string in the operator field like that
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-this will led the algorithm to calcilate the operation like this
+this will led the algorithm to calculate the operation like this
 
 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10
 
@@ -44,7 +44,7 @@ user input
 
 [***********************************************************]
 
-this will led the algorithm to calcilate the operation like this
+this will led the algorithm to calculate the operation like this
 
 10 * 10  10 *10  10 *10  10 *10  10 *10  10 *10  10 *10  10 *10  10 *10  10 *10
 
@@ -60,7 +60,7 @@ user input
 
 //////////////////////////////////////////////////////////////
 
-this will led the algorithm to calcilate the operation like this
+this will led the algorithm to calculate the operation like this
 
 10 / 5  10 /5  10 /5  10 /5  10 /5  10 /5  10 /5  10 /5  10 /5  10 /5
 
@@ -151,7 +151,7 @@ user input
 
 +++++++++**************///////////////////%%%%%%%%%%%%%%%^^^^^^^^^^^^^^^^!!!!!!!!!!!--------++++++
 
-this will led the algorithm to calcilate the operation like this
+this will led the algorithm to calculate the operation like this
 
 10 + 7 10 + 7 10 + 7 10 + 7  10 * 7  10 * 7 10 * 7  10 * 7 10 * 7 * 10 * 7 10 * 7  10 * 7  10 / 7 10 / 7 10 / 7 10 / 7 10 / 7 10
 / 7 10 / 7 10 / 7  10 % 7  10 % 7 10 % 7 10 % 7 10 % 7 10 % 7  10 ^ 7 10 ^ 7 10 ^ 7 10 ^ 7 10 ^ 7 10 ^ 7  10 ^ 7 10 ^ 7 
