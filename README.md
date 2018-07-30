@@ -16,7 +16,7 @@ get the result from all operations through combining all possible operators and 
 
 he will use Addition Operation[+]
 
-and then he enter a long string in the operator field like that
+and then he will enter a long string in the operator field like this:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -168,9 +168,7 @@ and then add the whole result like this
 
 it calculate all that depends on the string entered by the user..
 
-the result will be 100% correct ..However if the user inputs the wrrong charecter within the operator field ..it will not included in the
-
-calculation ..and the program will return an error message (that in the GUI version).
+the result will be 100% correct ..However if the user inputs the wrrong charecter within the operator field ..it will not included in the calculation ..and the program will return an error message (that in the GUI version).
 
 this the standard features .. more features will come soon with more operations suported..
 
@@ -180,4 +178,4 @@ GUI version..
 
 this was a Console Mode Application which developed with C++ ..
 
-the GUI version is now available in other repository [Mega Number]..its developed with C# and contain all the standard features included in the console application sofar ...
+the GUI version is now available in other repository [Mega Number]..its developed with C# and contain all the standard features included in the console application so far ...
