@@ -1,4 +1,4 @@
-// Super_Calcilator_C++.cpp : Defines the entry point for the console application.
+// Super_Calculator_C++.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
@@ -10,7 +10,7 @@
 
 using namespace std;
 
-//Globall variablles.....
+//Global variables.....
 
 int num1;
 int num2;
@@ -212,7 +212,7 @@ return 0;
 int _tmain(int argc, _TCHAR* argv[])
 {
 
-	cout<<"----welcome to SuperCalcilator-----\n\nTHE BLENDER OF OPERATORS!!..!\n\n";
+	cout<<"----welcome to SuperCalculator-----\n\nTHE BLENDER OF OPERATORS!!..!\n\n";
 
     cout<<"-> STARTING!\n";
 
